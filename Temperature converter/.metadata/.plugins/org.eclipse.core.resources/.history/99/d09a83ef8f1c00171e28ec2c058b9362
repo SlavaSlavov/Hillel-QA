@@ -1,0 +1,79 @@
+package application;
+
+
+import javafx.geometry.Insets;
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.control.RadioButton;
+import javafx.scene.control.TextField;
+import javafx.scene.control.ToggleGroup;
+import javafx.scene.layout.GridPane;
+import javafx.stage.Stage;
+
+
+public class Main extends Application{
+	
+	@Override
+	public void start(Stage primaryStage) throws Exception {
+		
+		GridPane root = new GridPane();
+		root.setPadding(new Insets(10,10,10,10));
+		Button btn = new Button();
+		root.setHgap(5);
+		root.setVgap(5);
+		
+		TextField resultIntput = new TextField();
+		GridPane.setConstraints(resultIntput,0,3);
+		root.getChildren().add(resultIntput);
+
+		Label resultOutput = new Label();
+		GridPane.setConstraints(resultOutput,0,1);		
+		root.getChildren().add(resultOutput);
+		
+		
+		//Button preference
+		btn.setText("Converte");
+		GridPane.setConstraints(btn,0,4);
+		root.getChildren().add(btn);
+		
+		
+		ToggleGroup radioButtons = new ToggleGroup();
+		
+		
+		RadioButton celsius = new RadioButton("Celsius");
+		celsius.setSelected(true);
+		GridPane.setConstraints(celsius,3,3);
+		root.getChildren().add(celsius);
+		celsius.setToggleGroup(radioButtons);
+		
+		RadioButton fahrenhet = new RadioButton("Fahrenhet");
+		GridPane.setConstraints(fahrenhet,3,4);
+		root.getChildren().add(fahrenhet);
+		fahrenhet.setToggleGroup(radioButtons);
+		
+		
+		btn.setOnAction(event->{
+			if(celsius.isSelected()){
+				double toNum = Integer.parseInt(resultIntput.getText());
+				resultOutput.setText(toNum*1.8+32+" F");
+			}
+			else {
+				double toNum = Integer.parseInt(resultIntput.getText());
+				resultOutput.setText((toNum-32)*0.555+" C");
+			}
+		});
+		
+		primaryStage.setTitle("Converter");
+		Scene scene = new Scene(root, 350, 150);
+		primaryStage.setScene(scene);
+		primaryStage.show();
+	}
+
+	
+	public static void main(String[] args) {
+		launch(args);
+	}
+
+}
