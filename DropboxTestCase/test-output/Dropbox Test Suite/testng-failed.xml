@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Dropbox Test Suite]" parallel="none">
+  <test name="Main Test Group(failed)" parallel="none">
+    <classes>
+      <class name="DropboxTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="finish"/>
+          <include name="logInToAccount"/>
+          <include name="uploadFile"/>
+          <include name="downloadFile"/>
+          <include name="deleteFile"/>
+        </methods>
+      </class> <!-- DropboxTest -->
+    </classes>
+  </test> <!-- Main Test Group(failed) -->
+</suite> <!-- Failed suite [Dropbox Test Suite] -->
