@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6a100e3-b334-4e77-925d-f73147bd250e" name="Default" comment="" />
+    <list default="true" id="a6a100e3-b334-4e77-925d-f73147bd250e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jcommander.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/resources_en.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/selenium-html-runner-3.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/selenium-server-standalone-3.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/testng-plugin.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/testng.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testng.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/DropboxTest.class" afterPath="$PROJECT_DIR$/target/test-classes/DropboxTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DropboxTestCase.iml" afterPath="$PROJECT_DIR$/DropboxTestCase.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DropboxTest.java" afterPath="$PROJECT_DIR$/src/test/java/DropboxTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,79 +28,67 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-<<<<<<< HEAD
   <component name="ExportToHTMLSettings">
     <option name="printScope" value="1" />
     <option name="OUTPUT_DIRECTORY" value="D:\Hillel\QA\HW\DropboxTestCase\exportToHTML" />
   </component>
-=======
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-=======
-            <state relative-caret-position="210">
-              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="DropboxTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DropboxTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1050">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-                <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
       <file leaf-file-name="DropboxTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/DropboxTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="225">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-                <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="378">
+              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-=======
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <file leaf-file-name="DropboxTest.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/test-classes/DropboxTest.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="XSLT Stylesheet" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -94,18 +98,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/TestNg.xml.fxml" />
+        <option value="$PROJECT_DIR$/src/test/java/Main.java" />
         <option value="$PROJECT_DIR$/TestNg.xml.fxml" />
         <option value="$PROJECT_DIR$/src/test/java/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/DropboxTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DropboxTest.java" />
+        <option value="$PROJECT_DIR$/DropboxTestCase.iml" />
+        <option value="$PROJECT_DIR$/.idea/testng.xml.fxml" />
+        <option value="$PROJECT_DIR$/target/test-classes/DropboxTest.class" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
-=======
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/TestNg.xml.fxml" />
-        <option value="$PROJECT_DIR$/src/test/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DropboxTest.java" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
       </list>
     </option>
   </component>
@@ -117,17 +121,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
-    <option name="x" value="438" />
-    <option name="y" value="96" />
-    <option name="width" value="1302" />
-    <option name="height" value="993" />
-=======
-    <option name="x" value="70" />
-    <option name="y" value="16" />
-    <option name="width" value="1760" />
-    <option name="height" value="1004" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+    <option name="x" value="67" />
+    <option name="y" value="26" />
+    <option name="width" value="1757" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -144,12 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-=======
-      <pane id="Scratches" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -172,9 +163,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< HEAD
-=======
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -188,21 +181,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DropboxTestCase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DropboxTestCase" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-<<<<<<< HEAD
+      <pane id="Scope" />
       <pane id="Scratches" />
-=======
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,14 +211,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-<<<<<<< HEAD
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="dropboxtestcase" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-=======
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Hillel\QA\HW\DropboxTestCase" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,25 +233,21 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="TestNG.D:/Hillel/QA/HW/DropboxTestCase/testng.xml">
-=======
-  <component name="RunManager" selected="TestNG.DropboxTest">
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
-    <configuration default="false" name="DropboxTest.logOut" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DropboxTest.logOut (1)">
+    <configuration default="false" name="DropboxTest.deleteFile (1)" type="TestNG" factoryName="TestNG" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="DropboxTestCase" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DropboxTest" />
-      <option name="METHOD_NAME" value="logOut" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -320,11 +318,7 @@
       <listeners />
       <method />
     </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="DropboxTest.downloadFile" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-=======
-    <configuration default="false" name="DropboxTest.uploadFile" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+    <configuration default="false" name="DropboxTest.logOut" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="DropboxTestCase" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -332,11 +326,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DropboxTest" />
-<<<<<<< HEAD
-      <option name="METHOD_NAME" value="downloadFile" />
-=======
-      <option name="METHOD_NAME" value="uploadFile" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <option name="METHOD_NAME" value="logOut" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -356,25 +346,15 @@
       <listeners />
       <method />
     </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="DropboxTest.deleteFile (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="DropboxTest.logOut (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
-=======
-    <configuration default="false" name="DropboxTest.downloadFile" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="DropboxTestCase" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DropboxTest" />
-<<<<<<< HEAD
-      <option name="METHOD_NAME" value="deleteFile" />
-=======
-      <option name="METHOD_NAME" value="downloadFile" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <option name="METHOD_NAME" value="logOut" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -562,6 +542,30 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method>
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="" />
+      </method>
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -598,43 +602,22 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="DropboxTest" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-<<<<<<< HEAD
-      <module name="" />
-=======
-      <module name="DropboxTestCase" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DropboxTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-<<<<<<< HEAD
-        <value defaultName="singleModule" />
-=======
-        <value defaultName="moduleWithDependencies" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" value="" />
-      <envs />
-      <properties />
-      <listeners />
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
-<<<<<<< HEAD
     <configuration default="false" name="D:/Hillel/QA/HW/DropboxTestCase/testng.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -663,38 +646,50 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="false" name="DropboxTest" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DropboxTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.DropboxTest" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.D:/Hillel/QA/HW/DropboxTestCase/testng.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.DropboxTest.logOut" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.D:/Hillel/QA/HW/DropboxTestCase/testng.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.DropboxTest" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.DropboxTest.deleteFile (1)" />
       <item index="3" class="java.lang.String" itemvalue="TestNG.DropboxTest.logInToAccount" />
       <item index="4" class="java.lang.String" itemvalue="TestNG.DropboxTest.deleteFile" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.DropboxTest.downloadFile" />
-      <item index="6" class="java.lang.String" itemvalue="TestNG.DropboxTest.deleteFile (1)" />
-=======
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.DropboxTest" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.DropboxTest.logOut" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.DropboxTest.logInToAccount" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.DropboxTest.deleteFile" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.DropboxTest.uploadFile" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.DropboxTest.downloadFile" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <item index="5" class="java.lang.String" itemvalue="TestNG.DropboxTest.logOut" />
+      <item index="6" class="java.lang.String" itemvalue="TestNG.DropboxTest.logOut (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.DropboxTest.deleteFile" />
-<<<<<<< HEAD
-        <item index="1" class="java.lang.String" itemvalue="TestNG.DropboxTest.deleteFile (1)" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.DropboxTest.logOut" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.DropboxTest.logInToAccount" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.DropboxTest.downloadFile" />
-=======
+        <item index="0" class="java.lang.String" itemvalue="TestNG.DropboxTest.logOut (1)" />
         <item index="1" class="java.lang.String" itemvalue="TestNG.DropboxTest.logInToAccount" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.DropboxTest.logOut" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.DropboxTest.downloadFile" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.DropboxTest.uploadFile" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+        <item index="3" class="java.lang.String" itemvalue="TestNG.DropboxTest.deleteFile" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.DropboxTest.deleteFile (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -712,122 +707,66 @@
     <servers />
   </component>
   <component name="TestHistory">
-<<<<<<< HEAD
-    <history-entry file="D__Hillel_QA_HW_DropboxTestCase_testng_xml - 2017.05.02 at 09h 14m 44s.xml">
+    <history-entry file="D__Hillel_QA_HW_DropboxTestCase_testng_xml - 2017.05.07 at 15h 36m 03s.xml">
       <configuration name="D:/Hillel/QA/HW/DropboxTestCase/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Hillel_QA_HW_DropboxTestCase_testng_xml - 2017.05.02 at 09h 17m 35s.xml">
-      <configuration name="D:/Hillel/QA/HW/DropboxTestCase/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Hillel_QA_HW_DropboxTestCase_testng_xml - 2017.05.02 at 09h 22m 52s.xml">
-      <configuration name="D:/Hillel/QA/HW/DropboxTestCase/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Hillel_QA_HW_DropboxTestCase_testng_xml - 2017.05.02 at 11h 33m 12s.xml">
-      <configuration name="D:/Hillel/QA/HW/DropboxTestCase/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Hillel_QA_HW_DropboxTestCase_testng_xml - 2017.05.02 at 12h 32m 23s.xml">
-      <configuration name="D:/Hillel/QA/HW/DropboxTestCase/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Hillel_QA_HW_DropboxTestCase_testng_xml - 2017.05.02 at 13h 09m 10s.xml">
-      <configuration name="D:/Hillel/QA/HW/DropboxTestCase/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest - 2017.05.02 at 08h 39m 16s.xml">
+    <history-entry file="DropboxTest - 2017.05.07 at 13h 45m 49s.xml">
       <configuration name="DropboxTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.05.02 at 13h 07m 19s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
+    <history-entry file="DropboxTest - 2017.05.07 at 14h 59m 27s.xml">
+      <configuration name="DropboxTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.05.02 at 13h 08m 10s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
+    <history-entry file="DropboxTest_logInToAccount - 2017.05.07 at 13h 05m 39s.xml">
+      <configuration name="DropboxTest.logInToAccount" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DropboxTest_deleteFile_(1) - 2017.05.02 at 13h 05m 55s.xml">
-      <configuration name="DropboxTest.deleteFile (1)" configurationId="TestNG" />
+    <history-entry file="DropboxTest_logInToAccount - 2017.05.07 at 13h 13m 40s.xml">
+      <configuration name="DropboxTest.logInToAccount" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DropboxTest_logOut - 2017.05.07 at 13h 04m 28s.xml">
+      <configuration name="DropboxTest.logOut" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DropboxTest_logOut - 2017.05.07 at 13h 06m 07s.xml">
+      <configuration name="DropboxTest.logOut" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DropboxTest_logOut - 2017.05.07 at 13h 07m 22s.xml">
+      <configuration name="DropboxTest.logOut" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DropboxTest_logOut - 2017.05.07 at 13h 07m 58s.xml">
+      <configuration name="DropboxTest.logOut" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DropboxTest_logOut_(1) - 2017.05.07 at 15h 51m 17s.xml">
+      <configuration name="DropboxTest.logOut (1)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="438" y="96" width="1302" height="993" extended-state="1" />
-    <editor active="true" />
-=======
-    <history-entry file="DropboxTest - 2017.04.29 at 11h 48m 36s.xml">
-      <configuration name="DropboxTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 10h 28m 51s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 10h 30m 59s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 10h 32m 14s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 10h 35m 37s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 10h 37m 12s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 10h 38m 14s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 10h 39m 39s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 10h 40m 22s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DropboxTest_deleteFile - 2017.04.29 at 11h 01m 31s.xml">
-      <configuration name="DropboxTest.deleteFile" configurationId="TestNG" />
-    </history-entry>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="70" y="16" width="1760" height="1004" extended-state="0" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+    <frame x="67" y="26" width="1757" height="1032" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-=======
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3150838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22975078" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-=======
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20551091" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.306498" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-=======
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-<<<<<<< HEAD
-=======
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756633" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -837,11 +776,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-<<<<<<< HEAD
-      <option name="time" value="13" />
-=======
-      <option name="time" value="12" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -850,6 +785,32 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DropboxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -860,13 +821,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DropboxTest.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="1008">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
           </folding>
         </state>
       </provider>
@@ -885,8 +843,6 @@
           <caret line="89" column="3" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="89" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
           </folding>
         </state>
       </provider>
@@ -905,8 +861,6 @@
           <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
           </folding>
         </state>
       </provider>
@@ -925,31 +879,6 @@
           <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DropboxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-=======
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
-        <state relative-caret-position="231">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
           </folding>
         </state>
       </provider>
@@ -968,12 +897,24 @@
           <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DropboxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -992,13 +933,6 @@
           <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
@@ -1017,13 +951,6 @@
           <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
@@ -1042,13 +969,6 @@
           <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
@@ -1067,13 +987,6 @@
           <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
@@ -1092,13 +1005,6 @@
           <caret line="62" column="9" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
@@ -1117,13 +1023,6 @@
           <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
@@ -1142,13 +1041,6 @@
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
@@ -1167,13 +1059,6 @@
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
@@ -1197,64 +1082,109 @@
     <entry file="file://$PROJECT_DIR$/debug.log" />
     <entry file="file://$PROJECT_DIR$/DropboxTestCase.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="99">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/testng.xml.fxml" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/test-classes/DropboxTest.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-609">
+        <state relative-caret-position="84">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-=======
-        <state relative-caret-position="210">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DropboxTest.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="-1050">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1493656044604" expanded="true" signature="5341:5342" ph="..." />
-            <marker date="1493656044604" expanded="true" signature="5342:5430" ph="..." />
-=======
-        <state relative-caret-position="378">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1493453973543" expanded="true" signature="5237:5238" ph="..." />
-            <marker date="1493453973543" expanded="true" signature="5238:5326" ph="..." />
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-=======
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
   </component>
   <component name="masterDetails">
     <states>
@@ -1312,6 +1242,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

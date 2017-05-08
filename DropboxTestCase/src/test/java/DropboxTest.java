@@ -82,18 +82,11 @@ public class DropboxTest {
         @Test(priority = 4,
               dependsOnMethods = {"logInToAccount"})
         public void logOut() {
-<<<<<<< HEAD
             wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("#bubbleDropdownTarget-1")));
             driver.findElement(By.cssSelector("#bubbleDropdownTarget-1")).click();
             wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("li.link-item")));
             driver.findElement(By.cssSelector("[href=\"https://www.dropbox.com/logout\"]")).click();
             wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".login-button")));
-=======
-            wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".c-avatar--circle")));
-            driver.findElement(By.cssSelector("#bubbleDropdownTarget-1")).click();
-            wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("li.link-item")));
-            driver.findElement(By.cssSelector("[href=\"https://www.dropbox.com/logout\"]")).click();
->>>>>>> 284b3a2f5c59f5bf5764080e3137fc675fe5df6e
             Assert.assertTrue(driver.findElement(By.cssSelector(".login-button")).isDisplayed());
         }
 
