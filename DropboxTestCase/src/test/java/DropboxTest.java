@@ -40,6 +40,7 @@ public class DropboxTest {
               dependsOnMethods = { "logInToAccount"})
         public void uploadFile() {
             String fileName = new String("chromedriver_win32.zip");
+            wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector(".primary-action-menu__button")));
             driver.findElement(By.cssSelector(".primary-action-menu__button")).click();
             wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".dbmodal-button")));
             driver.findElement(By.cssSelector(".basic-uploader-link")).click();
