@@ -3,6 +3,10 @@
 
 <suite name="Dropbox Test Suite">
 
+    <listeners>
+        <listener class-name="EmailableReporter2"/>
+    </listeners>
+
     <test name="Main Test Group">
         <classes>
             <class name="DropboxTest"/>
